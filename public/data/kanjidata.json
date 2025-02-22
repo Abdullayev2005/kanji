@@ -1,0 +1,181 @@
+{
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Dars 1",
+        "kanjis": [
+          { "kanji": "日", "readings": ["にち", "ひ", "じつ"] },
+          { "kanji": "月", "readings": ["げつ", "つき"] },
+          { "kanji": "火", "readings": ["か", "ひ"] },
+          { "kanji": "水", "readings": ["すい", "みず"] },
+          { "kanji": "木", "readings": ["もく", "き"] },
+          { "kanji": "金", "readings": ["きん", "かね"] },
+          { "kanji": "土", "readings": ["ど", "つち"] },
+          { "kanji": "山", "readings": ["さん", "やま"] },
+          { "kanji": "川", "readings": ["せん", "かわ"] },
+          { "kanji": "田", "readings": ["でん", "た"] }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Dars 2",
+        "kanjis": [
+          { "kanji": "人", "readings": ["じん", "ひと", "にん"] },
+          { "kanji": "口", "readings": ["こう", "くち"] },
+          { "kanji": "車", "readings": ["しゃ", "くるま"] },
+          { "kanji": "門", "readings": ["もん"] },
+          { "kanji": "火", "readings": ["か", "ひ"] },
+          { "kanji": "犬", "readings": ["けん", "いぬ"] },
+          { "kanji": "王", "readings": ["おう"] },
+          { "kanji": "空", "readings": ["くう", "そら"] },
+          { "kanji": "天", "readings": ["てん"] },
+          { "kanji": "気", "readings": ["き"] }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Dars 3",
+        "kanjis": [
+          { "kanji": "雨", "readings": ["う", "あめ"] },
+          { "kanji": "赤", "readings": ["せき", "あか"] },
+          { "kanji": "青", "readings": ["せい", "あお"] },
+          { "kanji": "白", "readings": ["はく", "しろ"] },
+          { "kanji": "黒", "readings": ["こく", "くろ"] },
+          { "kanji": "花", "readings": ["か", "はな"] },
+          { "kanji": "草", "readings": ["そう", "くさ"] },
+          { "kanji": "竹", "readings": ["ちく", "たけ"] },
+          { "kanji": "糸", "readings": ["し", "いと"] },
+          { "kanji": "貝", "readings": ["かい"] }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Dars 4",
+        "kanjis": [
+          { "kanji": "石", "readings": ["せき", "いし"] },
+          { "kanji": "米", "readings": ["べい", "こめ"] },
+          { "kanji": "糸", "readings": ["し", "いと"] },
+          { "kanji": "耳", "readings": ["じ", "みみ"] },
+          { "kanji": "手", "readings": ["しゅ", "て"] },
+          { "kanji": "足", "readings": ["そく", "あし"] },
+          { "kanji": "目", "readings": ["もく", "め"] },
+          { "kanji": "力", "readings": ["りょく", "ちから"] },
+          { "kanji": "気", "readings": ["き"] },
+          { "kanji": "円", "readings": ["えん"] }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Dars 5",
+        "kanjis": [
+          { "kanji": "入", "readings": ["にゅう", "い"] },
+          { "kanji": "出", "readings": ["しゅつ", "で"] },
+          { "kanji": "立", "readings": ["りつ", "た"] },
+          { "kanji": "休", "readings": ["きゅう", "やす"] },
+          { "kanji": "先", "readings": ["せん", "さき"] },
+          { "kanji": "生", "readings": ["せい", "い"] },
+          { "kanji": "学", "readings": ["がく", "まな"] },
+          { "kanji": "校", "readings": ["こう"] },
+          { "kanji": "文", "readings": ["ぶん"] },
+          { "kanji": "字", "readings": ["じ"] }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Dars 6",
+        "kanjis": [
+          { "kanji": "村", "readings": ["そん", "むら"] },
+          { "kanji": "町", "readings": ["ちょう", "まち"] },
+          { "kanji": "森", "readings": ["しん", "もり"] },
+          { "kanji": "正", "readings": ["せい", "ただ"] },
+          { "kanji": "玉", "readings": ["ぎょく", "たま"] },
+          { "kanji": "王", "readings": ["おう"] },
+          { "kanji": "石", "readings": ["せき", "いし"] },
+          { "kanji": "竹", "readings": ["ちく", "たけ"] },
+          { "kanji": "糸", "readings": ["し", "いと"] },
+          { "kanji": "貝", "readings": ["かい"] }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Dars 7",
+        "kanjis": [
+          { "kanji": "車", "readings": ["しゃ", "くるま"] },
+          { "kanji": "金", "readings": ["きん", "かね"] },
+          { "kanji": "雨", "readings": ["う", "あめ"] },
+          { "kanji": "赤", "readings": ["せき", "あか"] },
+          { "kanji": "青", "readings": ["せい", "あお"] },
+          { "kanji": "白", "readings": ["はく", "しろ"] },
+          { "kanji": "黒", "readings": ["こく", "くろ"] },
+          { "kanji": "天", "readings": ["てん"] },
+          { "kanji": "気", "readings": ["き"] },
+          { "kanji": "空", "readings": ["くう", "そら"] }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Dars 8",
+        "kanjis": [
+          { "kanji": "音", "readings": ["おん", "おと"] },
+          { "kanji": "立", "readings": ["りつ", "た"] },
+          { "kanji": "力", "readings": ["りょく", "ちから"] },
+          { "kanji": "目", "readings": ["もく", "め"] },
+          { "kanji": "耳", "readings": ["じ", "みみ"] },
+          { "kanji": "手", "readings": ["しゅ", "て"] },
+          { "kanji": "足", "readings": ["そく", "あし"] },
+          { "kanji": "雨", "readings": ["う", "あめ"] },
+          { "kanji": "草", "readings": ["そう", "くさ"] },
+          { "kanji": "花", "readings": ["か", "はな"] }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Dars 9",
+        "kanjis": [
+          { "kanji": "春", "readings": ["しゅん", "はる"] },
+          { "kanji": "夏", "readings": ["か", "なつ"] },
+          { "kanji": "秋", "readings": ["しゅう", "あき"] },
+          { "kanji": "冬", "readings": ["とう", "ふゆ"] },
+          { "kanji": "夕", "readings": ["せき", "ゆう"] },
+          { "kanji": "方", "readings": ["ほう", "かた"] },
+          { "kanji": "西", "readings": ["せい", "にし"] },
+          { "kanji": "南", "readings": ["なん", "みなみ"] },
+          { "kanji": "北", "readings": ["ほく", "きた"] },
+          { "kanji": "東", "readings": ["とう", "ひがし"] }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Dars 10",
+        "kanjis": [
+          { "kanji": "名", "readings": ["めい", "な"] },
+          { "kanji": "字", "readings": ["じ"] },
+          { "kanji": "文", "readings": ["ぶん"] },
+          { "kanji": "学", "readings": ["がく", "まな"] },
+          { "kanji": "校", "readings": ["こう"] },
+          { "kanji": "生", "readings": ["せい", "い"] },
+          { "kanji": "先", "readings": ["せん", "さき"] },
+          { "kanji": "年", "readings": ["ねん", "とし"] },
+          { "kanji": "時", "readings": ["じ", "とき"] },
+          { "kanji": "間", "readings": ["かん", "あいだ"] }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Dars 11",
+        "kanjis": [
+          { "kanji": "書", "readings": ["しょ", "か"] },
+          { "kanji": "語", "readings": ["ご", "かた"] },
+          { "kanji": "読", "readings": ["どく", "よ"] },
+          { "kanji": "聞", "readings": ["ぶん", "き"] },
+          { "kanji": "見", "readings": ["けん", "み"] },
+          { "kanji": "話", "readings": ["わ", "はな"] },
+          { "kanji": "言", "readings": ["げん", "い"] },
+          { "kanji": "買", "readings": ["ばい", "か"] },
+          { "kanji": "売", "readings": ["ばい", "う"] },
+          { "kanji": "食", "readings": ["しょく", "た"] }
+        ]
+      }
+    ]
+  }
+  
