@@ -4,32 +4,32 @@
         "id": 1,
         "title": "Dars 1",
         "kanjis": [
-          { "kanji": "日", "readings": ["にち", "ひ", "じつ"] },
-          { "kanji": "月", "readings": ["げつ", "つき"] },
-          { "kanji": "火", "readings": ["か", "ひ"] },
-          { "kanji": "水", "readings": ["すい", "みず"] },
-          { "kanji": "木", "readings": ["もく", "き"] },
-          { "kanji": "金", "readings": ["きん", "かね"] },
-          { "kanji": "土", "readings": ["ど", "つち"] },
-          { "kanji": "山", "readings": ["さん", "やま"] },
-          { "kanji": "川", "readings": ["せん", "かわ"] },
-          { "kanji": "田", "readings": ["でん", "た"] }
+        { "kanji": "山", "readings": ["さん", "やま", "ざん"] },
+        { "kanji": "川", "readings": ["せん", "かわ", "がわ"] },
+        { "kanji": "田", "readings": ["でん", "た"] },
+        { "kanji": "日", "readings": ["にち", "じつ", "ひ", "び", "か"] },
+        { "kanji": "月", "readings": ["げつ", "がつ", "つき"] },
+        { "kanji": "火", "readings": ["か", "ひ", "ほ"] },
+        { "kanji": "水", "readings": ["すい", "みず"] },
+        { "kanji": "木", "readings": ["もく", "ぼく", "き", "こ"] },
+        { "kanji": "金", "readings": ["きん", "こん", "かね", "かな"] },
+        { "kanji": "土", "readings": ["ど", "と", "つち"] }
         ]
       },
       {
         "id": 2,
         "title": "Dars 2",
         "kanjis": [
-          { "kanji": "人", "readings": ["じん", "ひと", "にん"] },
-          { "kanji": "口", "readings": ["こう", "くち"] },
-          { "kanji": "車", "readings": ["しゃ", "くるま"] },
-          { "kanji": "門", "readings": ["もん"] },
-          { "kanji": "火", "readings": ["か", "ひ"] },
-          { "kanji": "犬", "readings": ["けん", "いぬ"] },
-          { "kanji": "王", "readings": ["おう"] },
-          { "kanji": "空", "readings": ["くう", "そら"] },
-          { "kanji": "天", "readings": ["てん"] },
-          { "kanji": "気", "readings": ["き"] }
+        { "kanji": "一", "readings": ["いち", "いつ", "ひと"] },
+        { "kanji": "二", "readings": ["に", "ふた"] },
+        { "kanji": "三", "readings": ["さん", "みっ"] },
+        { "kanji": "四", "readings": ["し", "よん", "よ"] },
+        { "kanji": "五", "readings": ["ご", "いつ"] },
+        { "kanji": "六", "readings": ["ろく", "むっ", "むい"] },
+        { "kanji": "七", "readings": ["しち", "なな"] },
+        { "kanji": "八", "readings": ["はち", "やっ", "よう"] },
+        { "kanji": "九", "readings": ["きゅう", "く", "ここの"] },
+        { "kanji": "十", "readings": ["じゅう", "じっ", "とお"] }
         ]
       },
       {
